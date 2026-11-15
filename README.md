@@ -21,3 +21,5 @@ This portfolio uses a simulated outpatient clinic to demonstrate database design
 
 5. [Portfolio 5 — Distributed and Cloud Database Design](./Portfolio%205/)  
    A proposed PostgreSQL primary and read-replica architecture, with a diagram and discussion of replica lag and failover.
+
+For the two-session concurrency test, see Portfolio 3’s transaction notes and screenshots 03–07, which show the competing booking waiting, being rejected, and leaving one confirmed booking.
